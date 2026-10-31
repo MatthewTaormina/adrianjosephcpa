@@ -1,0 +1,111 @@
+[
+  {
+    "id": 6,
+    "date": "2018-06-18T11:53:33",
+    "date_gmt": "2018-06-18T15:53:33",
+    "guid": {
+      "rendered": "http://adrianjoseph.test/?page_id=6"
+    },
+    "modified": "2026-02-17T08:58:29",
+    "modified_gmt": "2026-02-17T13:58:29",
+    "slug": "home",
+    "status": "publish",
+    "type": "page",
+    "link": "https://adrianjosephcpa.com/",
+    "title": {
+      "rendered": "Home"
+    },
+    "content": {
+      "rendered": "\n<div style=\"height:72px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n\n\n\n<div style=\"height:72px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<h3 class=\"wp-block-heading\">Tania Joseph</h3>\n\n\n\n<p>Tania has been working with the firm on a part-time basis for over five years. She is a QuickBooks ProAdvisor and plans to pursue her CPA designation and Trust and Estate Practitioner (TEP) certification, with a long-term goal of specializing in business and personal taxation.</p>\n\n\n\n<p>Under Adrian&#8217;s supervision, Tania prepares personal and corporate income tax returns, assists with compilation engagements in CaseWare, and completes year-end bookkeeping in QuickBooks Online and QuickBooks Desktop. She has experience working with clients across a range of industries.&nbsp;</p>\n\n\n\n<p>Tania is currently pursuing a Bachelor of Commerce in Accounting at Ontario Tech University, with a minor in Entrepreneurship. She is actively involved in her university&#8217;s Accounting Association, Business and IT Society, and Women in Business Club. She is also completing a Business Tax internship at a Big Four accounting firm, further strengthening her technical skills and exposure to complex tax matters.</p>\n</div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<figure class=\"wp-block-image size-full is-style-rounded\"><img loading=\"lazy\" decoding=\"async\" width=\"948\" height=\"948\" src=\"https://adrianjosephcpa.com/wp-content/uploads/2026/02/Tania-photo.jpg\" alt=\"\" class=\"wp-image-148\" srcset=\"https://adrianjosephcpa.com/wp-content/uploads/2026/02/Tania-photo.jpg 948w, https://adrianjosephcpa.com/wp-content/uploads/2026/02/Tania-photo-300x300.jpg 300w, https://adrianjosephcpa.com/wp-content/uploads/2026/02/Tania-photo-150x150.jpg 150w, https://adrianjosephcpa.com/wp-content/uploads/2026/02/Tania-photo-768x768.jpg 768w\" sizes=\"auto, (max-width: 948px) 100vw, 948px\" /></figure>\n</div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Tania Joseph Tania has been working with the firm on a part-time basis for over five years. She is a QuickBooks ProAdvisor and plans to pursue her CPA designation and Trust and Estate Practitioner (TEP) certification, with a long-term goal of specializing in business and personal taxation. Under Adrian&#8217;s supervision, Tania prepares personal and corporate [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 7,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-6",
+      "page",
+      "type-page",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/pages/6",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/comments?post=6"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 44,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/pages/6/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 151,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/pages/6/revisions/151"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/media/7"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/media?parent=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

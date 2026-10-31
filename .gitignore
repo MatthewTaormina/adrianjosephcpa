@@ -1,0 +1,12 @@
+# OS & Editors
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs & Cache
+*.log
+.cache/
+node_modules/

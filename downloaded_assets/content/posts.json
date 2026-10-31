@@ -1,0 +1,362 @@
+[
+  {
+    "id": 74,
+    "date": "2019-08-14T11:25:16",
+    "date_gmt": "2019-08-14T15:25:16",
+    "guid": {
+      "rendered": "http://clients.studiozaffines.ca/adrianjoseph/?p=74"
+    },
+    "modified": "2020-12-16T11:12:14",
+    "modified_gmt": "2020-12-16T16:12:14",
+    "slug": "passive-investment-income-and-the-small-business-deduction-grind",
+    "status": "publish",
+    "type": "post",
+    "link": "https://adrianjosephcpa.com/passive-investment-income-and-the-small-business-deduction-grind/",
+    "title": {
+      "rendered": "Passive Investment Income and the Small Business Deduction Grind:"
+    },
+    "content": {
+      "rendered": "<p>The federal government put forward a consultation paper in July 2017, that it was looking to prevent companies deferring excess income in the corporation to use it to earn passive investment income after paying small business tax rates.</p>\n<p>Canadian-controlled private corporations (CCPCs) pay corporate income taxes on small business income at 9% federally (2019 onwards). The small business limit (the amount of income annually eligible for the small business rate) is $500,000 federally and in most provinces. Above $500,000 the general Federal tax rate is 15%. For Ontario, the small business limit is $500,000. Up to $500,000 the Ontario tax rate is 3.5% and above $500,000 it is 11.5%.</p>\n<p><!--more--></p>\n<p>From tax years commencing from Jan 1, 2019, the business limit will be reduced by $5 for every $1 of investment income above $50,000 (the term used is \u201cAdjusted Aggregate Investment Income\u201d). If investment income reaches $150,000 in a given tax year, the small business rate will be eliminated.</p>\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th>Passive Income Earned</th>\n<th>Small Business Limit Reduction</th>\n<th>Small Business Limit Available</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>$50,000</td>\n<td>$0</td>\n<td>$500,000</td>\n</tr>\n<tr>\n<td>$90,000</td>\n<td>5 x ($90,000 &#8211; $50,000) = $200,000</td>\n<td>$300,000</td>\n</tr>\n<tr>\n<td>$150,000</td>\n<td>5 x ($150,000 &#8211; $50,000) = $500,000</td>\n<td>Nil</td>\n</tr>\n</tbody>\n</table>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"img-fluid alignnone wp-image-75 size-full\" src=\"https://adrianjosephcpa.com/wp-content/uploads/2019/08/chart-deduction.jpg\" alt=\"Small Business Deductions\" width=\"900\" height=\"503\" srcset=\"https://adrianjosephcpa.com/wp-content/uploads/2019/08/chart-deduction.jpg 900w, https://adrianjosephcpa.com/wp-content/uploads/2019/08/chart-deduction-300x168.jpg 300w, https://adrianjosephcpa.com/wp-content/uploads/2019/08/chart-deduction-768x429.jpg 768w\" sizes=\"auto, (max-width: 900px) 100vw, 900px\" /></p>\n<p>Most provinces have enacted legislation to mirror the federal changes, Ontario &amp; New Brunswick have not and so the claw back will not apply on the Ontario &amp; New Brunswick tax rates.</p>\n<p>Investment income in associated companies must be aggregated to determine if the $50,000 threshold has been surpassed, and if so, determine the amount of the small business limit that will be clawed back.</p>\n<p>The following types of situations are not affected as much due to the legislation changes:</p>\n<ul>\n<li>Where profits are routinely paid to individual Canadian resident shareholders, the additional cost is mainly a loss of deferral of tax.</li>\n</ul>\n<p>Larger CCPCs. The small business limit begins to be phased out for associated CCPCs with greater than $10Mn in aggregate taxable capital employed in Canada and is eliminated when taxable capital reaches $15Mn.</p>\n<h3>Adjusted Aggregate Investment Income:</h3>\n<table class=\"table table-bordered\">\n<tbody>\n<tr>\n<td>Aggregate Investment Income (AII)</td>\n<td>= net income from property (rent, interest, royalties)</td>\n</tr>\n<tr>\n<td></td>\n<td>+ taxable capital gains for the year</td>\n</tr>\n<tr>\n<td></td>\n<td>+ taxable dividends</td>\n</tr>\n<tr>\n<td></td>\n<td>+ foreign investment income</td>\n</tr>\n<tr>\n<td></td>\n<td>&#8211; taxable dividends</td>\n</tr>\n<tr>\n<td></td>\n<td>&#8211; capital losses for the year</td>\n</tr>\n<tr>\n<td></td>\n<td>&#8211; capital losses from prior years applied in the year</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Adjusted AII</td>\n<td>= Aggregate Investment Income</td>\n</tr>\n<tr>\n<td></td>\n<td>+ taxable dividends not received from a connected corporation</td>\n</tr>\n<tr>\n<td></td>\n<td>+ income arising from the disposition of an exempt policy</td>\n</tr>\n<tr>\n<td></td>\n<td>+ capital losses from prior years applied in the year</td>\n</tr>\n<tr>\n<td></td>\n<td>&#8211; capital gains from the sale of active assets</td>\n</tr>\n</tbody>\n</table>\n<h3>Tax planning aspects to minimize claw back:</h3>\n<ul>\n<li>Develop a bias towards capital gains as opposed to interest &amp; dividends \u2013 only half the capital gains are included in AII calculation.</li>\n<li>Timing of capital gains and capital losses.\n<ul>\n<li>Have capital losses triggered in years where there are large capital gains.</li>\n<li>Realize capital gains in years where there is low business income or when investment income for the year is already over $150,000</li>\n</ul>\n</li>\n<li>Purchasing active assets that could appreciate, such as investing in the building which the company would operate in.</li>\n<li>Keep the companies as qualifying small business corporations. Capital gains from sale of such shares are not part of the adjusted AII.</li>\n<li>Purchasing an exempt life insurance policy and putting passive investments into this, where allowed.</li>\n<li>Look into creating Individual Pension Plans</li>\n<li>Consider investments that also provide a return of capital regularly as part of their distributions. This would defer a portion of the tax until final disposal.</li>\n</ul>\n<ul>\n<li>Consider better allocation of expenses to reduce Net Investment Income\n<ul>\n<li>Reasonable salary allocation for managing investment portion</li>\n<li>Investment counsel fees.</li>\n</ul>\n</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>The federal government put forward a consultation paper in July 2017, that it was looking to prevent companies deferring excess income in the corporation to use it to earn passive investment income after paying small business tax rates.</p>\n<p>Canadian-controlled private corporations (CCPCs) pay corporate income taxes on small business income at 9% federally (2019 onwards). The small business limit (the amount of income annually eligible for the small business rate) is $500,000 federally and in most provinces. Above $500,000 the general Federal tax rate is 15%. For Ontario, the small business limit is $500,000. Up to $500,000 the Ontario tax rate is 3.5% and above $500,000 it is 11.5%.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "categories": [
+      3
+    ],
+    "tags": [],
+    "class_list": [
+      "post-74",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-taxes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts/74",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/comments?post=74"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts/74/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 97,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts/74/revisions/97"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/media?parent=74"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/categories?post=74"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/tags?post=74"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "date": "2019-01-04T10:59:32",
+    "date_gmt": "2019-01-04T15:59:32",
+    "guid": {
+      "rendered": "http://clients.studiozaffines.ca/adrianjoseph/?p=53"
+    },
+    "modified": "2020-12-16T11:10:14",
+    "modified_gmt": "2020-12-16T16:10:14",
+    "slug": "carbon-tax-climate-action-incentive-payments-in-ontario",
+    "status": "publish",
+    "type": "post",
+    "link": "https://adrianjosephcpa.com/carbon-tax-climate-action-incentive-payments-in-ontario/",
+    "title": {
+      "rendered": "Carbon Tax &#038; Climate Action Incentive Payments in Ontario"
+    },
+    "content": {
+      "rendered": "<h3>What is Carbon Tax?</h3>\n<p>The Carbon Tax is one that greenhouse gas emitters must pay per tonne of carbon dioxide emitted from burning carbon-based fuels. To motivate emitters to change their practices to decrease emissions, the price goes up over time, so households and industries have time to adjust and adopt less carbon-heavy practices. This is set to be implemented from April 1,2019.</p>\n<p>This has come about from Canada\u2019s commitment under the Paris Agreement to work towards reducing global warming. In response, the federal government established Pan-American Framework on Clean Growth and Climate Change, which set carbon tax at a minimum of $20 per tonne in 2019, increasing by $10 per year until it hits $50 per tonne in 2022.</p>\n<p><!--more--></p>\n<p>Where a province does not have its own carbon tax plan by 2019, the federal carbon tax is imposed. Ontario\u2019s cap and trade program has been cancelled by the current ruling party.</p>\n<h3>How is a Consumer affected?</h3>\n<p>This is an indirect tax on consumers, meaning end consumers will not have to pay the tax directly, but they will face higher prices for goods and services from industries that emit higher greenhouse gases and pass these costs through the supply chain.</p>\n<p>A more visible impact for consumers will be gas price increases. Gas prices are slated to go up by 4.4 cents per litre in April 2019, rising to 11 cents a litre by April 2022. The carbon tax charge by fuel type is shown in Exhibit 1 below.</p>\n<p>Consumers will receive a government rebate called Climate Action Incentive Payments to offset some of the higher costs they would experience, starting with the filing of their 2018 tax returns.</p>\n<h3>How does the Climate Action Incentive Payment work?</h3>\n<p>For 2019, an Ontario family of four, will receive $307 under this proposal, calculated as follows:</p>\n<ul>\n<li>$154 for a single adult or the first adult in a couple</li>\n<li>$77 for the second adult in a couple. Single parents will receive this amount for their first child.</li>\n<li>$38 for each child in the family (starting with the second child for single parents).</li>\n</ul>\n<p>This will be claimed as part of the 2018 tax return filing and will be received as of the tax return assessment.</p>\n<p>There is an extra 10% supplement for residents of small and rural communities. Small and rural communities will be defined as anywhere outside of a census metropolitan area, as defined by Statistics Canada.</p>\n<p>The payments in subsequent years (excluding the supplement for residents of small and rural communities) are expected to be as follows:</p>\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th></th>\n<th>2020</th>\n<th>2021</th>\n<th>2022</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>First Adult</td>\n<td>$226</td>\n<td>$295</td>\n<td>$360</td>\n</tr>\n<tr>\n<td>Spouse</td>\n<td>$113</td>\n<td>$147</td>\n<td>$180</td>\n</tr>\n<tr>\n<td>Child</td>\n<td>$56</td>\n<td>$73</td>\n<td>$89</td>\n</tr>\n<tr>\n<td>Family of four</td>\n<td>$451</td>\n<td>$588</td>\n<td>$718</td>\n</tr>\n</tbody>\n</table>\n<h4>Exhibit 1</h4>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone wp-image-55 size-full\" src=\"https://adrianjosephcpa.com/wp-content/uploads/2019/01/carbon-tax-chart.jpg\" alt=\"\" width=\"690\" height=\"457\" srcset=\"https://adrianjosephcpa.com/wp-content/uploads/2019/01/carbon-tax-chart.jpg 690w, https://adrianjosephcpa.com/wp-content/uploads/2019/01/carbon-tax-chart-300x199.jpg 300w\" sizes=\"auto, (max-width: 690px) 100vw, 690px\" /></p>\n<h3>What about Quebec, Alberta and British Columbia\u2019s Carbon Tax programs?</h3>\n<p>Quebec has a cap and trade system since 2013.</p>\n<p>In Alberta, the carbon tax is presently $30 per tonne. This began in 2017.</p>\n<p>British Columbia has had a carbon tax in place since 2008. Emissions in the province are now $40 per tonne, rising by $5 per tonne each year until the cost reaches $50 per tonne in 2021.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>What is Carbon Tax?</p>\n<p>The Carbon Tax is one that greenhouse gas emitters must pay per tonne of carbon dioxide emitted from burning carbon-based fuels. To motivate emitters to change their practices to decrease emissions, the price goes up over time, so households and industries have time to adjust and adopt less carbon-heavy practices. This is set to be implemented from April 1,2019.</p>\n<p>This has come about from Canada\u2019s commitment under the Paris Agreement to work towards reducing global warming. In response, the federal government established Pan-American Framework on Clean Growth and Climate Change, which set carbon tax at a minimum of $20 per tonne in 2019, increasing by $10 per year until it hits $50 per tonne in 2022.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "categories": [
+      3
+    ],
+    "tags": [],
+    "class_list": [
+      "post-53",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-taxes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts/53",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/comments?post=53"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 9,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts/53/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 95,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts/53/revisions/95"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/media?parent=53"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/categories?post=53"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/tags?post=53"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "date": "2018-10-01T11:15:50",
+    "date_gmt": "2018-10-01T15:15:50",
+    "guid": {
+      "rendered": "http://clients.studiozaffines.ca/adrianjoseph/?p=46"
+    },
+    "modified": "2020-12-16T11:27:12",
+    "modified_gmt": "2020-12-16T16:27:12",
+    "slug": "income-sprinkling-rules-tax-on-split-income-tosi-enacted-jun-2018",
+    "status": "publish",
+    "type": "post",
+    "link": "https://adrianjosephcpa.com/income-sprinkling-rules-tax-on-split-income-tosi-enacted-jun-2018/",
+    "title": {
+      "rendered": "Income Sprinkling Rules / Tax on Split Income (TOSI) \u2013 enacted Jun 2018"
+    },
+    "content": {
+      "rendered": "<p>Legislation that contained the legalization of Cannabis obtained Royal Assent on Jun 21, 2018 (Bill C-74). Included in this Bill, were also the complicated rules covering Income Sprinkling, widely referred to as TOSI (Tax on Split Income) that were announced in December 2017.</p>\n<p>The government\u2019s objective is to eliminate the benefits of income splitting where the recipient of the income (a related family member) has not made a sufficient contribution to the family business. To accomplish this, they are subjecting income received under these rules to the highest marginal tax rates, thus eliminating any advantage achieved through income splitting. Since Jan 2000, there were such rules in place for those under the age of 18 (known as \u201cKiddie Tax\u201d) \u2013 this has now been expanded to cover a broader age category.</p>\n<p><!--more--></p>\n<p>The TOSI rules apply to essentially any income amounts, outside of a reasonable salary, including the following</p>\n<ul>\n<li>Taxable dividends from non-public corporations (excluding capital dividends) or shareholder benefits</li>\n<li>Partnership income received from a Related Business, or rental income with involvement from a related person</li>\n<li>Taxable dividends from non-public corporations (excluding capital dividends), shareholder benefits, Income from a Related Business, or rental income with involvement from a related person, received from a trust</li>\n<li>Debt obligation income from a non-public corporation, partnership or trust</li>\n<li>Gains from the sale of non-public corporation shares, or income from property with historical Tax on Spilt Income.</li>\n</ul>\n<p>Even income from foreign private companies would also be caught under the above rules.</p>\n<h4>Consider the following situation:</h4>\n<p>A husband and wife involved in a family incorporated service business having 50% ownership each. Husband is active in the business. Wife is not active. They each draw a dividend of $50,000 for 2018. If this were there only source of income and there were no other credits,</p>\n<p>Where dividends are ineligible dividends*</p>\n<p>Husband would pay taxes of $2,951</p>\n<p>Wife would pay taxes of $23,420</p>\n<p>Wife would be subject to the highest marginal tax rate on ineligible dividend of 46.84% for 2018 because of the new TOSI rules.</p>\n<p>*Ineligible dividends are dividends paid out of profits that were subject to corporation tax at the small business tax rates.</p>\n<p>Where dividends are eligible dividends*</p>\n<p>Husband would pay taxes of $0</p>\n<p>Wife would pay taxes of $19,670</p>\n<p>Wife would be subject to the highest marginal tax rate on eligible dividend of 39.34% for 2018 because of the new TOSI rules.</p>\n<p>*Eligible dividends are dividends paid out of profits that were subject to full corporation tax rates.</p>\n<p>There are several exclusions to the TOSI. The rules vary depending on the age of the individual. This could be summarized based on age category as:</p>\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th width=\"50%\">Exceptions</th>\n<th width=\"50%\">\n<div class=\"row text-center\">\n<div class=\"col\">Applicable Ages</div>\n</div>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\">Under 18</div>\n<div class=\"col-1-of-4\">18-24</div>\n<div class=\"col-1-of-4\">25+</div>\n<div class=\"col-1-of-4\">65+</div>\n</div>\n</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Inheritance</td>\n<td>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Breakdown of Relationship</td>\n<td>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Death</td>\n<td>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Qualified capital gains or qualified farm or fishing property</td>\n<td>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Excluded Business</td>\n<td>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Excluded Share</td>\n<td>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Safe harbour return</td>\n<td>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\"></div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Reasonable return &#8211; &#8220;arms length capital&#8221; only</td>\n<td>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\"></div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Reasonable return</td>\n<td>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\">X</div>\n<div class=\"col-1-of-4\">X</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Retirement</td>\n<td>\n<div class=\"row text-center\">\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\"></div>\n<div class=\"col-1-of-4\">X</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<p>As one sees from the chart above, the age categories with rule changes are:</p>\n<ul>\n<li>Under 18 yrs</li>\n<li>Age 18-23</li>\n<li>Over Age 24</li>\n<li>Over Age 64</li>\n</ul>\n<p>The exclusions explained</p>\n<ul>\n<li>Amounts from property received on death of another person (a) who is parent (b) from anyone if full-time post-secondary student or disabled, provided under 24 yrs.</li>\n<li>Property obtained by spouse/common law partner on separation/divorce</li>\n<li>Taxable capital gain on one\u2019s death</li>\n<li>Taxable capital gain from sale of qualifying small business corporation shares, farming or fishing property unless under 18 and non-arms length,</li>\n<li>If at least 18, amount during the tax year,\n<ul>\n<li>\n<h5>Is from an Excluded business</h5>\n<p>This exclusion applies to those over 18 yrs. To qualify for this exclusion, the family member must be engaged on a regular, continuous and substantial basis in the business. This exclusion would apply if the family member has worked at least 20 hours a week on average in 5 years at any time in the past. Any dividends they receive now or in the future from the family business will not be subject to TOSI.</li>\n<li>\n<h5>Is not from Related business</h5>\n<p>If we were doing a TOSI study for Mr. A, a related business would be, a business carried out by a person related to Mr. A. Such a business would cover proprietorship, partnership, corporation or trust. For this purpose, the person related to Mr. A must be actively engaged on a regular basis. If partnership, any percentage ownership by the person related to Mr. A will result in the partnership being considered a related business. If corporation, if the person related to Mr. A owns at least 10% of the value of the corporation, then it would be a related business.</p>\n<p>A related person is father, mother, spouse/common law partner, brother, sister, son, daughter. The rule extends to grandparents, grand children and in-laws of this person.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>If 18 but under 24, amount is based on bright-line tests, that are\n<ul>\n<li>\n<h5>Safe harbour capital return</h5>\n<p>This is the highest prescribed quarterly interest rate for the year multiplied by the fair market value of property contributed by the individual for the year. At present (Sep 2018) the prescribed rate is 2%. If an individual had $100,000 invested in the business, the individual could take $2,000 for the year as the safe harbour amount, that would not be subject to the TOSI rules</p>\n<p>&#8211; or &#8211;</li>\n<li>\n<h5>Reasonable return considering arm\u2019s length capital</h5>\n<p>Arm\u2019s length capital is property contributed to the business by an individual not derived from a related business or was not borrowed or transferred from a related person.<br />\nReasonable return has not been defined but would assume to be a return commensurate with the risks involved in the business.</li>\n</ul>\n</li>\n<li>If 24 &amp; over (a) reasonable return or (b) excluded shares<br />\nReasonable return is a more generous calculation than safe harbour return or reasonable return considering arm\u2019s length capital as it will include property contributed indirectly as well.Excluded shares are generally shares that represent at least 10% of the votes and value of the company. In addition to this requirement, the exclusion only applies to shares of corporations where less than 90% of the business income of the corporation is from the provision of services, and 90% or more of all the income of the corporation is not derived directly or indirectly from one or more other related businesses of the individual. Excluded shares also do not include shares of a professional corporation.</li>\n<li>If over 64 and the other spouse/common law part is actively engaged in the business.</li>\n</ul>\n<p>If TOSI is applicable, even some of the regular tax credits are removed. Only three tax credits are allowed to set-off against income subject to TOSI</p>\n<ul>\n<li>Dividend tax credit</li>\n<li>Foreign tax credit</li>\n<li>Disability tax credit</li>\n</ul>\n<p>The following are not allowed:</p>\n<ul>\n<li>Personal allowances</li>\n<li>Donation tax credit</li>\n<li>Medical expenses credit</li>\n</ul>\n<p>Please <a href=\"/#contact\"><strong><u>contact us</u></strong></a> to discuss how the new rules will impact your family\u2019s tax planning.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Legislation that contained the legalization of Cannabis obtained Royal Assent on Jun 21, 2018 (Bill C-74). Included in this Bill, were also the complicated rules covering Income Sprinkling, widely referred to as TOSI (Tax on Split Income) that were announced in December 2017.</p>\n<p>The government\u2019s objective is to eliminate the benefits of income splitting where the recipient of the income (a related family member) has not made a sufficient contribution to the family business. To accomplish this, they are subjecting income received under these rules to the highest marginal tax rates, thus eliminating any advantage achieved through income splitting. Since Jan 2000, there were such rules in place for those under the age of 18 (known as \u201cKiddie Tax\u201d) \u2013 this has now been expanded to cover a broader age category.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_acf_changed": false,
+      "footnotes": ""
+    },
+    "categories": [
+      3
+    ],
+    "tags": [],
+    "class_list": [
+      "post-46",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-taxes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts/46",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/comments?post=46"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 5,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts/46/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 100,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/posts/46/revisions/100"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/media?parent=46"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/categories?post=46"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://adrianjosephcpa.com/wp-json/wp/v2/tags?post=46"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

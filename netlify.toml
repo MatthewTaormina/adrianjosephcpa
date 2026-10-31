@@ -1,0 +1,40 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Clean URLs & legacy redirects
+[[redirects]]
+  from = "/taxation"
+  to = "/services/taxation.html"
+  status = 200
+
+[[redirects]]
+  from = "/estate-and-trust-planning"
+  to = "/services/estate-and-trust.html"
+  status = 200
+
+[[redirects]]
+  from = "/accounting-services"
+  to = "/services/accounting-advisory.html"
+  status = 200
+
+[[redirects]]
+  from = "/about"
+  to = "/about.html"
+  status = 200
+
+[[redirects]]
+  from = "/contact"
+  to = "/contact.html"
+  status = 200
+
+[[redirects]]
+  from = "/calculator"
+  to = "/tools/tax-calculator.html"
+  status = 200
