@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initTaxEstimator();
   initConsultationForms();
   initFaqAccordion();
+  initUtmCapture();
 });
 
 /* ==========================================================================
@@ -198,4 +199,39 @@ function initFaqAccordion() {
       }
     });
   });
+}
+
+/* ==========================================================================
+   6. Google Ads UTM Campaign Attribution Capture
+   ========================================================================== */
+function initUtmCapture() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const utmParams = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'gclid'];
+
+  const captured = {};
+  utmParams.forEach(param => {
+    if (urlParams.has(param)) {
+      captured[param] = urlParams.get(param);
+    }
+  });
+
+  if (Object.keys(captured).length > 0) {
+    sessionStorage.setItem('aj_utm_tracking', JSON.stringify(captured));
+  }
+
+  // Inject hidden tracking inputs into all consultation forms
+  const stored = JSON.parse(sessionStorage.getItem('aj_utm_tracking') || '{}');
+  if (Object.keys(stored).length > 0) {
+    document.querySelectorAll('form[data-consultation-form]').forEach(form => {
+      Object.keys(stored).forEach(key => {
+        if (!form.querySelector(`input[name="${key}"]`)) {
+          const input = document.createElement('input');
+          input.type = 'hidden';
+          input.name = key;
+          input.value = stored[key];
+          form.appendChild(input);
+        }
+      });
+    });
+  }
 }

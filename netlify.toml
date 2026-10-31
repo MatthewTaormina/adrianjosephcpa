@@ -8,7 +8,28 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
 
-# Clean URLs & legacy redirects
+# Google Ads PPC Campaign Target Routes
+[[redirects]]
+  from = "/go/corporate-tax"
+  to = "/landing/corporate-tax.html"
+  status = 200
+
+[[redirects]]
+  from = "/go/estate-trust"
+  to = "/landing/estate-trust.html"
+  status = 200
+
+[[redirects]]
+  from = "/go/business-succession"
+  to = "/landing/business-succession.html"
+  status = 200
+
+[[redirects]]
+  from = "/go/accounting"
+  to = "/landing/compilation-accounting.html"
+  status = 200
+
+# Clean URLs & legacy website redirects
 [[redirects]]
   from = "/taxation"
   to = "/services/taxation.html"
