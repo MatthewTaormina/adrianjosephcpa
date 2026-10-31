@@ -1,0 +1,36 @@
+# robots.txt for https://adrianjosephcpa.com/
+
+# Standard Search Engine Crawlers
+User-agent: *
+Allow: /
+Disallow: /downloaded_assets/
+Disallow: /landing/
+Disallow: /go/
+
+# Answer Engine Optimization (AEO) — Explicitly allow AI Bots to index and cite knowledge base
+User-agent: Google-Extended
+Allow: /
+Disallow: /downloaded_assets/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /downloaded_assets/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /downloaded_assets/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /downloaded_assets/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /downloaded_assets/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /downloaded_assets/
+
+# XML Sitemap Location
+Sitemap: https://adrianjosephcpa.com/sitemap.xml
